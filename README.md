@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cs50
 - 📫 How to reach me dhannarapukalyan@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Graduate from mechanical engeneering but have 5years of it experience.
+- ⚡ Fun fact: Graduate from mechanical engeneering but have 5years of IT experience.
 
 <!---
 Kalyan-Kumar-kk/Kalyan-Kumar-kk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
